@@ -56,7 +56,7 @@ JAVA-Basic-to-Advanced/
 └── README.md
 
 
-This structure helps you logically follow Java concepts from fundamentals to advanced topics. :contentReference[oaicite:4]{index=4}
+This structure helps you logically follow Java concepts from fundamentals to advanced topics. 
 
 ---
 
